@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: ArmorStandEdit
+main: com.github.KeyMove.ArmorStandEdit
+version: 1.0.0
+
+commands:
+    ArmorStandEdit:
